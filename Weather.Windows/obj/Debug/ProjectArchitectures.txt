@@ -1,0 +1,2 @@
+C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherPCL\WeatherPCL.csproj;neutral
+C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\WeatherWindows.csproj;neutral

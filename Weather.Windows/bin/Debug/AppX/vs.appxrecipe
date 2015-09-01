@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PERSONAL</Machine>
+    <WindowsUser>Shashank</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Weather</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E00B5699DE478DD9CA301B8A6CE2E08C6AE8EB3CE53841A770BCE80770E89C39</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Weather_1.4.0.0_neutral__9z86ctjjvf8tr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Weather_9z86ctjjvf8tr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Weather</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Shashank</RegisteredPackagePublisher>
+    <RegisteredVersion>1.4.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-25T01:54:57.053</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\bin\Debug\WeatherWindows.exe">
+      <PackagePath>WeatherWindows.exe</PackagePath>
+      <Modified>2015-08-25T01:57:48.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\packages\MvvmCross.HotTuna.CrossCore.3.5.1\lib\win81\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2015-08-15T21:01:33.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\packages\MvvmCross.HotTuna.CrossCore.3.5.1\lib\win81\Cirrious.CrossCore.WindowsCommon.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsCommon.dll</PackagePath>
+      <Modified>2015-08-15T21:01:33.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.5.1\lib\win81\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2015-08-15T21:01:33.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\packages\MvvmCross.HotTuna.CrossCore.3.5.1\lib\win81\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2015-08-15T21:01:33.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.5.1\lib\win81\Cirrious.MvvmCross.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsCommon.dll</PackagePath>
+      <Modified>2015-08-15T21:01:33.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\WeatherPCL.dll">
+      <PackagePath>WeatherPCL.dll</PackagePath>
+      <Modified>2015-08-25T01:54:52.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-08-15T21:38:18.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-08-17T12:39:30.559</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\bin\Debug\Views\FirstView.xbf">
+      <PackagePath>Views\FirstView.xbf</PackagePath>
+      <Modified>2015-08-25T01:57:47.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\bin\Debug\WeatherWindows.xr.xml">
+      <PackagePath>WeatherWindows.xr.xml</PackagePath>
+      <Modified>2015-08-25T01:57:28.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherPCL\ToDo-MvvmCross\_ Core.txt">
+      <PackagePath>WeatherPCL\ToDo-MvvmCross\_ Core.txt</PackagePath>
+      <Modified>2015-08-15T21:01:36.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Shashank\documents\visual studio 2013\Projects\WeatherApp\WeatherWindows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-25T01:54:56.654</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

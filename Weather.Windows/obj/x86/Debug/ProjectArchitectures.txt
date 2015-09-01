@@ -1,0 +1,2 @@
+D:\Cross Platform App\Weather.Common\Weather.Common.csproj;neutral
+D:\Cross Platform App\Weather.Windows\Weather.Windows.csproj;x86

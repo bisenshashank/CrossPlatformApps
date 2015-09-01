@@ -1,0 +1,9 @@
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\WeatherPCL.dll
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\WeatherPCL.pdb
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\obj\Debug\WeatherPCL.dll
+C:\Users\Shashank\Documents\Visual Studio 2013\Projects\WeatherApp\WeatherPCL\obj\Debug\WeatherPCL.pdb

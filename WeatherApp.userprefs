@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Weather.iOS/Weather.iOS.csproj">
+  <DisabledProjects>
+    <String>Weather.Windows/Weather.Windows.csproj</String>
+    <String>../`ios/WeatherApp/Weather.Ios/Weather.Ios.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.4" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dd/Apps/Cross Platform App/Weather.iOS/AppDelegate.cs" line="28" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
